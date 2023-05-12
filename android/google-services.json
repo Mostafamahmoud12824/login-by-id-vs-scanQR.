@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "367346161116",
+    "firebase_url": "https://keepitgreen-46224-default-rtdb.firebaseio.com",
+    "project_id": "keepitgreen-46224",
+    "storage_bucket": "keepitgreen-46224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367346161116:android:be910c80a5529ca078ab19",
+        "android_client_info": {
+          "package_name": "com.example.keepitgreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367346161116-vuanb5p0f1f9ipqi0082matl84h7jnpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtUQjelUejRLW6J0TnsZuryNeps76MWDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367346161116-vuanb5p0f1f9ipqi0082matl84h7jnpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367346161116:android:a4e8035993e0352478ab19",
+        "android_client_info": {
+          "package_name": "com.example.simpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367346161116-vuanb5p0f1f9ipqi0082matl84h7jnpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtUQjelUejRLW6J0TnsZuryNeps76MWDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367346161116-vuanb5p0f1f9ipqi0082matl84h7jnpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
